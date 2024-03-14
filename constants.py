@@ -1,0 +1,17 @@
+from pygame.color import Color
+
+COLOR_BLACK = Color(0, 0, 0)
+COLOR_WHITE = Color(255, 255, 255)
+COLOR_RED = Color(255, 0, 0)
+COLOR_GREEN = Color(0, 255, 0)
+COLOR_BLUE = Color(0, 0, 255)
+COLOR_YELLOW = Color(255, 255, 0)
+COLOR_CYAN = Color(0, 255, 255)
+COLOR_MAGENTA = Color(255, 0, 255)
+COLOR_GRAY = Color(128, 128, 128)
+COLOR_LIGHT_GRAY = Color(192, 192, 192)
+COLOR_DARK_GRAY = Color(64, 64, 64)
+COLOR_ORANGE = Color(255, 165, 0)
+COLOR_PURPLE = Color(128, 0, 128)
+COLOR_PINK = Color(255, 192, 203)
+COLOR_BROWN = Color(165, 42, 42)
